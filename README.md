@@ -4,3 +4,4 @@ Experts collected the first part in the sentence pairs from different Arabic boo
 
 To refere to this dataset, use the citation of this article:
 Marwah Alian, Arafat Awajan, Ahmad Al-Hasan, Raeda Akuzhia;"Towards building Arabic paraphrasing benchmark", Second International conference on Data Science E-learning and Information Systems (DATA' 2019), 2019.
+https://dl.acm.org/doi/abs/10.1145/3368691.3368708
