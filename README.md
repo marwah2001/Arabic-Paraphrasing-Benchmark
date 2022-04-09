@@ -9,13 +9,14 @@
 >
 >
 >      @inproceedings{alian2019towards,
->        title={Towards building Arabic paraphrasing benchmark},
+>        title={Building Arabic Paraphrasing Benchmark based on Transformation Rules},
 >        author={Alian, Marwah and Awajan, Arafat and Al-Hasan, Ahmad and Akuzhia, Raeda},
->        booktitle={Proceedings of the Second International conference on Data Science E-learning and Information Systems (DATA' 2019)},
->        pages={1--5},
->        year={2019},
+>        Journal={ACM Transactions on Asian and Low-Resource Language Information Processing},
+>        pages={1--17},
+>        year={2021},
 >      }
->            
+>      
+>  https://dl.acm.org/doi/10.1145/3446770          
 >  https://dl.acm.org/doi/abs/10.1145/3368691.3368708
->    
+>   
 
